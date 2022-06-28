@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: joe
+Version: 1.0
+Summary: toytools
+Home-page: https://github.com/lxsabrina/joe
+Author: joe
+Author-email: zx_genius@126.com
+License: UNKNOWN
+Description: # joe
+        python package demo
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
